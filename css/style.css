@@ -1,0 +1,19 @@
+h1 { 
+    color:lime;
+
+}
+p{
+    background-color:orange;
+    color:aqua;
+}
+p#intro{
+    color:crimson;
+}
+body{
+    background-color: blue;
+    background-image: url(https://media.tenor.com/IsneokwQDf8AAAAM/george-floyd-truly-lawst.gif);
+    background-size: 50px;
+}
+img.wattfak{
+    border: 20px dashed black;
+}

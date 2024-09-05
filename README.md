@@ -6,4 +6,4 @@ Bas heeft deze readme aangevuld.
 
 https://reiniergeppaard.github.io/my-awesome-project/
 Fee heeft deze readme aangevuld
-![Foto van Fee Baggen](IMG_8803.JPG)
+
